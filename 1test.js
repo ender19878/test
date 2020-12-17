@@ -8655,7 +8655,7 @@
                     path: "/pushList",
                     name: "PushList",
                     meta: {
-                        requiresMainLogin: !0
+                        requiresMainLogin: !1
                     },
                     component: ln
                 }, {
